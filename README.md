@@ -22,8 +22,6 @@ npm install
 
 ```
 npm run quick
-
-
 ```
 
-### Después de esto, hay que dirigirse a la siguiente URL: http://localhost:7627
+### Después de esto, hay que dirigirse a la siguiente URL: http://localhost:7627 y automáticamente os redigirá al puerto 7626 de localhost con la app.

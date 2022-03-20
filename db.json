@@ -1,0 +1,66 @@
+{
+  "heroes": [
+    {
+      "id": "HeroAslaug",
+      "name": "Aslaug",
+      "description": "warrior queen"
+    },
+    {
+      "id": "HeroBjorn",
+      "name": "Bjorn Ironside",
+      "description": "king of 9th century Sweden"
+    },
+    {
+      "id": "HeroIvar",
+      "name": "Ivar the Boneless",
+      "description": "commander of the Great Heathen Army"
+    },
+    {
+      "id": "HeroLagertha",
+      "name": "Lagertha the Shieldmaiden",
+      "description": "aka Hlaðgerðr"
+    },
+    {
+      "id": "HeroRagnar",
+      "name": "Ragnar Lothbrok",
+      "description": "aka Ragnar Sigurdsson"
+    },
+    {
+      "id": "HeroThora",
+      "name": "Thora Town-hart",
+      "description": "daughter of Earl Herrauðr of Götaland"
+    },
+    {
+      "name": "ESTO ES UN TEST",
+      "description": "test",
+      "id": "-Gs-RuT"
+    }
+  ],
+  "villains": [
+    {
+      "id": "VillainMadelyn",
+      "name": "Madelyn",
+      "description": "the cat whisperer"
+    },
+    {
+      "id": "VillainHaley",
+      "name": "Haley",
+      "description": "pen wielder"
+    },
+    {
+      "id": "VillainElla",
+      "name": "Ella",
+      "description": "fashionista"
+    },
+    {
+      "id": "VillainLandon",
+      "name": "Landon",
+      "description": "Mandalorian mauler"
+    },
+    {
+      "name": "TEST 2",
+      "description": "test 2",
+      "id": "tcz7LHU"
+    }
+  ]
+}

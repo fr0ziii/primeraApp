@@ -7,8 +7,10 @@
 ### dentro de la aplicación, podrás crear y visualizar heroés como villanos.
 
 ## Ejecutar la app
-``` git clone `https://github.com/fr0ziii/primeraApp`
+
+```
+git clone `https://github.com/fr0ziii/primeraApp`
 cd primeraApp
 npm install
 
-```
+´´´

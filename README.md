@@ -8,9 +8,22 @@
 
 ## Ejecutar la app
 
+### 1º Paso
+
 ```
 git clone `https://github.com/fr0ziii/primeraApp`
 cd primeraApp
 npm install
 
 ```
+
+### 2º Paso
+### Para inicializar el servidor con la app
+
+```
+npm run quick
+
+
+```
+
+### Después de esto, hay que dirigirse a la siguiente URL: http://localhost:7627

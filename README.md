@@ -13,4 +13,4 @@ git clone `https://github.com/fr0ziii/primeraApp`
 cd primeraApp
 npm install
 
-´´´
+```
